@@ -17,7 +17,7 @@ $ npm install nunjucks-render
 ### How to use it?
 
 ```js
-import { RenderExtension } from 'render.extension';
+import { RenderExtension } from 'nunjucks-render';
 
 env.addExtension(
   'render-extension',
