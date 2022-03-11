@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nunjucks Extension for rendering templates",
   "main": "lib/render.extension.js",
   "types": "lib/render.extension.d.ts",
